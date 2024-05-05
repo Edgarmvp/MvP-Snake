@@ -13,14 +13,14 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
-["447700168473", '𝙊𝙬𝙣𝙚𝙧 💖🐈', true], //𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈
-["593968585383"], 
-["5492266613038"], 
-["593968263524"],
-["33760536110"],
-["51948705559"],
-["573147616444"],
-["5215649706747"]]
+["51928035988", '𝙊𝙬𝙣𝙚𝙧 💖🐈', true], //𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈
+["594564654652"], 
+["4546545646554"], 
+["5465456554533"],
+["336554564455"],
+["546545465655"],
+["5856456456456"],
+["5544545465465"]]
 
 global.mods = []
 global.prems = []
@@ -137,7 +137,7 @@ global.author = ` ╭ 𝗚𝗮𝘁𝗮 𝗗𝗶𝗼𝘀 ✓\n ┃\n ┃ » 𝙶�
 // [EN] > BOT VERSION INFORMATION, PLEASE KEEP THIS UNCHANGED, WE STRIVE DAILY TO PROVIDE YOU WITH A BOT FOR THE COMMUNITY, BE GRATEFUL
 global.vs = "1.7.0"
 global.vsJB = "2.5 (Beta)"
-global.gt = "𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿"
+global.gt = "𝐌𝐯𝐏-𝐒𝐧𝐚𝐤𝐞"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
@@ -163,9 +163,9 @@ global.eg = '╰⊱💚⊱ *𝙀́𝙓𝙄𝙏𝙊 | 𝙎𝙐𝘾𝘾𝙀𝙎�
 global.exito = eg
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
-global.wm = "𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 : 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨"
-global.igfg = "𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿"
-global.nomorown = "593993684821"
+global.wm = "𝐌𝐯𝐏-𝐒𝐧𝐚𝐤𝐞 : 𝐍𝐨𝐯𝐚"
+global.igfg = "𝐌𝐯𝐏-𝐒𝐧𝐚𝐤𝐞"
+global.nomorown = "51990217280"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
