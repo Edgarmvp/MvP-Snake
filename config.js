@@ -128,8 +128,8 @@ global.desc2 = '' // Add long description (90 caractres max) (Este parámetro se
 global.country = '' // Add country, example: 🇪🇨
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
-global.packname = `╭ 𝐌𝐯𝐏-𝐒𝐧𝐚𝐤𝐞 🐈\n┃\n┃ » 𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖:\n┃ @globalgb\n┃\n┃ » 𝚈𝚘𝚞𝚃𝚞𝚋𝚎:\n┃ \n┃\n┃ » 𝙸𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖:\n┃ @gata_dios\n╰━━━━━━━━•` //"𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 🐈"
-global.author = ` ╭ 𝐍𝐨𝐯𝐚 ✓\n ┃\n ┃ » 𝙶𝚒𝚝𝙷𝚞𝚋:\n ┃ Edgarmvp\n ┃\n ┃ ⊹ Super Bot WhatsApp.\n ┃\n ┃ ♡ Apoyo\n ┃ » 𝙿𝚊𝚢𝙿𝚊𝚕:\n ┃ @n\n ╰━━━━━━━━•` //"𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨"
+global.packname = `╭ 𝐍𝐨𝐯𝐚-𝐃𝐱 💙\n┃\n┃ » 𝙸𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖:\n┃ @strangehuman\n╰━━━━━━━━•` //"𝐍𝐨𝐯𝐚-𝐃𝐱 💙"
+global.author = ` ╭ 𝐍𝐨𝐯𝐚 💙 ✓\n ┃\n ┃ » 𝙶𝚒𝚝𝙷𝚞𝚋:\n ┃ Nova-Dx\n╰━━━━━━━━•` //"𝐍𝐨𝐯𝐚 💙" 
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > INFORMACIÓN DE VERSIONES DEL BOT, POR FAVOR 
@@ -137,7 +137,7 @@ global.author = ` ╭ 𝐍𝐨𝐯𝐚 ✓\n ┃\n ┃ » 𝙶𝚒𝚝𝙷𝚞�
 // [EN] > BOT VERSION INFORMATION, PLEASE KEEP THIS UNCHANGED, WE STRIVE DAILY TO PROVIDE YOU WITH A BOT FOR THE COMMUNITY, BE GRATEFUL
 global.vs = "1.7.0"
 global.vsJB = "2.5 (Beta)"
-global.gt = "𝐌𝐯𝐏-𝐒𝐧𝐚𝐤𝐞"
+global.gt = "𝐍𝐨𝐯𝐚-𝐃𝐱"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
@@ -163,8 +163,8 @@ global.eg = '╰⊱💚⊱ *𝙀́𝙓𝙄𝙏𝙊 | 𝙎𝙐𝘾𝘾𝙀𝙎�
 global.exito = eg
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
-global.wm = "𝐌𝐯𝐏-𝐒𝐧𝐚𝐤𝐞 : 𝐍𝐨𝐯𝐚"
-global.igfg = "𝐌𝐯𝐏-𝐒𝐧𝐚𝐤𝐞"
+global.wm = "𝐒𝐭𝐫𝐚𝐧𝐠𝐞𝐡𝐮𝐦𝐚𝐧 : 𝐍𝐨𝐯𝐚"
+global.igfg = "𝐍𝐨𝐯𝐚 💙"
 global.nomorown = "51990217280"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
